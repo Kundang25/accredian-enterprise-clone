@@ -3,7 +3,7 @@
 A premium, industry-level enterprise landing page built with **Next.js 14**, **Tailwind CSS**, and **TypeScript**. This project is a functional clone of [Accredian Enterprise](https://enterprise.accredian.com/), optimized for performance, responsiveness, and professional aesthetics.
 
 ## 🚀 Live Demo
-[https://accredian-enterprise-clone.netlify.app/](https://accredian-enterprise-clone.netlify.app/)
+[https://accredian-enterprise-clone.netlify.app/](https://accredian-enterprise-clone-ashy.vercel.app/)
 
 ## ✨ Key Features
 - **Multi-Page Architecture**: Dedicated routes for Solutions, Curriculum, Impact, and About Us.
